@@ -1,5 +1,8 @@
 #! /usr/bin/env node
 
+
+// To play this game on command prompt use this command : npx @waleedhassan123/cli-number-guessing
+
 import inquirer from "inquirer";
 
 // 1) computer will generate a random number - done
